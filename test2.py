@@ -16,5 +16,8 @@ if (a+b>=c) and (a+c>=b) and (b+c>=a):
         print("Đó là tam giác tù")
     else:
         print("Đó là tam giác nhọn")
+else:
+    print("Đó không phải 3 cạnh")
+              
 
     
